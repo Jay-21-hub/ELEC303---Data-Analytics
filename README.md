@@ -1,1 +1,5 @@
 # ELEC303---Data-Analytics
+
+ACTIVITY 1 - PALMER PENGUIN DATA ANALYTICS
+
+[Activity1]
